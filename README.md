@@ -17,19 +17,11 @@ This project showcases a modern and responsive restaurant website featuring our 
 
 ## 🖼️ Screenshots
 
-*(Add your screenshots below once uploaded)*  
-| Home Page | Menu Page | Reservation Page |
-|------------|------------|------------------|
-| ![Home](screenshots/home.png) | ![Menu](screenshots/menu.png) | ![Reservation](screenshots/reservation.png) |
+<img width="1756" height="915" alt="Image" src="https://github.com/user-attachments/assets/0a58bedf-92f4-4526-b312-9d221828f77e" />
 
----
+<img width="1511" height="776" alt="Image" src="https://github.com/user-attachments/assets/1fba6af7-471b-45ff-a2bc-0bb0983f3960" />
 
-## 🚀 Technologies Used
-
-- **HTML5**  
-- **CSS3 / Tailwind / Bootstrap** (whichever applies)  
-- **JavaScript**  
-- *(Add any frameworks like React, Vue, etc. if used)*
+<img width="1241" height="771" alt="Image" src="https://github.com/user-attachments/assets/ec6e9d69-705b-4c69-8d93-c9f6034735ac" />
 
 ---
 
